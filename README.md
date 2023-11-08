@@ -1,7 +1,7 @@
-- 👋 Hi, I’m QA engineer @mariia-rubel
-- 👀 I’m interested in arts of technology 
+- 👋 Hi, I’m a QA engineer @mariia-rubel
+- 👀 I’m interested in the arts of technology 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on creating a high quality product
+- 💞️ I’m looking to collaborate on creating a high-quality product
 - 📫 How to reach me mariiarubel@gmail.com or @mineusername (Telegram)
 
 <!---
