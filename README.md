@@ -2,7 +2,7 @@
 - 👀 I’m interested in the arts of technology 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on creating a high-quality product
-- 📫 How to reach me mariiarubel@gmail.com or @mineusername (Telegram)
+- 📫 Let's connect! [LinkedIn]([url](https://www.linkedin.com/in/maria-rubel-3a950a241/)) / mariiarubel@gmail.com 
 
 <!---
 mariia-rubel/mariia-rubel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
